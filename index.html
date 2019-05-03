@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <title>UFO SWARM</title>
+    <link rel="icon" href="assets/sprites/enemy.png">
+    <div class="nocursor"></div>
+    <style type="text/css">
+        .nocursor { cursor:none; }
+        body {
+          margin: 0;
+        }
+        .overlay {
+          position: absolute;
+          color: white;
+          right: 0;
+        }
+        .container {
+          position: relative;
+          display: inline;
+        }
+        #phaser-injection {
+          height: 100vh;
+        }
+        div:-webkit-full-screen {
+          width: 100% !important;
+        }
+        div:-moz-full-screen {
+          width: 100% !important;
+        }
+        div:-ms-fullscreen {
+          width: 100% !important;
+        }
+        div:fullscreen {
+          width: 100% !important;
+        }
+    </style>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <div id="phaser-injection">
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/phaser-ce/2.10.5/phaser.min.js"></script>
+    <script src="game.js"></script>
+  </body>
+</html>
