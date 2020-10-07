@@ -1,6 +1,6 @@
 # UFO SWARM
 A web game made wtih Phaser 2.  
-This game was made for my final project in 9nth grade.
+This game was made for my final project in ninth grade.
 
 You can play it online here: https://patrickmargot.github.io/ufo-swarm/.  
 
