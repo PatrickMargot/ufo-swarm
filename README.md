@@ -1,4 +1,4 @@
-# UFO SWARM
+# Ufo Swarm
 A Bullet Hell web game made for my final project in ninth grade.
 
 ### Built With
