@@ -15,3 +15,6 @@ Clone project, then:
 ```bash
 npx http-server -o
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
