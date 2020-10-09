@@ -1,20 +1,26 @@
 # UFO SWARM
-A web game made wtih Phaser 2.  
-This game was made for my final project in ninth grade.
+A Bullet Hell web game made for my final project in ninth grade.
 
-You can play it online here: https://patrickmargot.github.io/ufo-swarm/.  
+### Built With
+* [Phaser](https://phaser.io/)
+### Soundtrack
+* https://soundcloud.com/degitx/pixel-rain
 
-Since it was my first big coding project, the code is messy.
-
-Soundtrack: https://soundcloud.com/degitx/pixel-rain
+## Demo
+Play it online here: https://patrickmargot.github.io/ufo-swarm/
 
 ## Installation
-
-You need a local server to run this game, you could use http-server for example.  
-Clone project, then:  
-```bash
+1. Clone repository
+```sh
+git clone https://github.com/PatrickMargot/ufo-swarm.git
+```
+2. Move to project folder
+```sh
+cd ufo-swarm
+````
+3. Setup a local server with http-server for example
+```sh
 npx http-server -o
 ```
-
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is [MIT Licensed](https://choosealicense.com/licenses/mit/).
